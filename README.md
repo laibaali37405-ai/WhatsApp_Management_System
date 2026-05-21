@@ -19,6 +19,7 @@ This project is built using Object-Oriented Programming (OOP) principles in C++.
 12 UMLS:
 ![class diagram](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Class%20Diagram?raw=true)
 ![ERD](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Chen%20Notation%20ERD1.png?raw=true)
+![usecase](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Usecase%20diagram.jpeg?raw=true)
 ![Component Diagram](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Component%20diagram.jpeg?raw=true)
 ![flowchart diagram](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Flowchart%20diagram.jpeg?raw=true)
 ![state machine](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/State_machine%20diagram.jpeg?raw=true)
