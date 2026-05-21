@@ -17,7 +17,7 @@ This project is built using Object-Oriented Programming (OOP) principles in C++.
 (https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/WHTSAPP%20MANAGEMENT%20SYSTEM.docx)
 
 12 UMLS:
-![class diagram]()
+![class diagram](https://github.com/laibaali37405-ai/WhatsApp_Management_System/blob/main/Class%20Diagram?raw=true)
 
 
 ## 💻 System Features
